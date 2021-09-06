@@ -8,7 +8,10 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/fullstack12345/wagyuswap-sdk.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullstack12345/wagyuswap-sdk.git"
+  },
   "keywords": [
     "wagyuswap",
     "bsc"
@@ -55,5 +58,10 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/fullstack12345/wagyuswap-sdk/issues"
+  },
+  "homepage": "https://github.com/fullstack12345/wagyuswap-sdk#readme",
+  "author": "hames"
 }
